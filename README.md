@@ -1,2 +1,3 @@
 # miniAppCpp
-Una muestra de código... ...por si a alguien pudiera serle de alguna utilidad...
+
+Un esqueleto básico para empezar una pequeña aplicación C++, trabajando con CMake y CMake Tests.
